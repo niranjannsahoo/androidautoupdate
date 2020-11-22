@@ -1,0 +1,3 @@
+include ':autoupdate'
+include ':app'
+rootProject.name = "appupdate"
